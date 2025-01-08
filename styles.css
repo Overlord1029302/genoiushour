@@ -1,0 +1,115 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #c8e6c9;
+    color: #000000;
+    margin: 0;
+    padding: 20px;
+
+    
+}
+#backgroundimg {
+  background-image: url(bgimg3.png);
+  background-size: 50% 100%;
+  
+}
+header {
+    text-align: center;
+    padding: 20px;
+    color: #ffffff;
+}
+h2 {
+    color: #000000;
+    cursor: pointer;
+    transition: color 0.3s;
+    font-size: xx-large;
+    margin-left: 0px;
+}
+
+
+.info-box {
+    display: none;
+    margin-top: 10px;
+    padding: 15px;
+    background-color: #c8e6c9;
+    border-radius: 8px;
+}
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
+body {
+    font-family: Rockwell, 'Rockwell Nova', 'Roboto Slab', 'DejaVu Serif', 'Sitka Small', serif;
+font-weight: normal;
+  }
+  
+  .navbar {
+    overflow: hidden;
+    background-color: #333;
+    margin-left: -20px;
+    width: 105%;
+  }
+  
+  .navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    position: relative;
+  }
+  
+  .dropdown {
+    float: left;
+    overflow: hidden;
+  }
+  
+  .dropdown .dropbtn {
+    font-size: 16px;  
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-content a:hover {
+    background-color: #ddd;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  .plants {
+    font-size: 20;
+  }
+
